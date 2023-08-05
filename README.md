@@ -20,5 +20,5 @@ Contributions are welcome! If you have any suggestions, improvements, or bug rep
 Notes
 This game is a basic text-based adventure for educational purposes. It may not have extensive gameplay features found in commercial games.
 
-Have fun exploring the game world and making your choices!
+
 
